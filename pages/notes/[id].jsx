@@ -10,6 +10,7 @@ export default () => {
       <Link href="/notes">
         <a>Notes</a>
       </Link>
+      <button onClick={(e) => router.push("/")}>Go Home</button>
     </div>
   );
 };
