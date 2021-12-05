@@ -1,5 +1,5 @@
 import React from "react";
 
 export default () => {
-  return <h1>Hello Next.js, Index Page</h1>;
+  return <h1 class="heading">Hello Next.js (index page)</h1>;
 };
